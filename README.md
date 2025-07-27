@@ -1,4 +1,4 @@
-# 🏡 DreamNest Estate 🌟
+# 🏡 NovaEstate 🌟
 
 Welcome to **DreamNest Estate** – your ✨ultimate real estate platform✨ for finding, listing, and exploring properties in style!  
 Built with ❤️ using **React**, **Tailwind CSS**, and **Clerk Authentication**.
